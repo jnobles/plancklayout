@@ -1,0 +1,4 @@
+[{x:2.25,c:"#919191",g:true,a:7},"",{c:"#cccccc",g:false},"Toggle Clicky Mode","Cicky Tone Up","Clicky Tone Down","Clicky Tone Reset",{g:true},"","","","","",{g:false},"Reboot",{c:"#919191",g:true},""],
+[{c:"#cccccc",g:false,w:1.75,w2:2},"Adjust",{x:0.5,c:"#919191",g:true},"",{c:"#cccccc",g:false},"Macro 1 Rec","Macro 2 Rec","Finish Macro Rec",{g:true,n:true},"","","",{n:true},"","","",{g:false},"Boot loader",{c:"#919191",g:true},""],
+[{c:"#6bdbff",g:false},"&dArr;",{c:"#ff5454"},"&uArr;",{x:0.25,c:"#919191",g:true},"",{c:"#cccccc",g:false},"Macro 1 Play","Macro 2 Play",{g:true},"","","","","","","","",{c:"#919191"},""],
+[{x:2.25},"","","","",{c:"#6bdbff"},"&dArr;",{c:"#cccccc"},"","",{c:"#ff5454"},"&uArr;",{c:"#919191"},"","","",""]

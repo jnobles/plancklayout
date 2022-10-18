@@ -1,0 +1,4 @@
+[{x:2.25,c:"#919191",a:7},"Print Screen",{c:"#cccccc",g:true},"","","","","","","","","","",{c:"#919191"},""],
+[{c:"#cccccc",g:false,w:1.75,w2:2},"Function",{x:0.5,c:"#919191",g:true},"",{c:"#cccccc",g:false},"F1","F2","F3",{n:true},"F4","F5","F6",{g:true,n:true},"","","","",{c:"#919191"},""],
+[{x:1,c:"#66ab63",g:false},"Fn",{x:0.25,c:"#919191",g:true},"",{c:"#cccccc",g:false},"F7","F8","F9","F10","F11","F12",{g:true},"","","","",{c:"#919191"},""],
+[{x:2.25,c:"#66ab63"},"Fn",{c:"#919191",g:false},"Ctrl","Gui","Alt",{g:true},"",{c:"#cccccc",g:false},"","",{c:"#919191",g:true},"",{g:false},"End","Page Down","Page Up","Home"]

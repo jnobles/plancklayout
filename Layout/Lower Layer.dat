@@ -1,0 +1,4 @@
+[{x:2.25,c:"#919191",a:7},"~",{c:"#cccccc"},"!","@","#","$","%","^","&","*","(",")",{c:"#919191"},"Back Space"],
+[{c:"#cccccc",w:1.75,w2:2},"Lower",{x:0.5,c:"#919191"},"Delete",{c:"#cccccc"},"Mouse 1","Mouse Up","Mouse 2",{n:true},"Scroll Up",{g:true},"","",{g:false,n:true},"_","+","[","]",{c:"#919191"},"/"],
+[{x:1,c:"#6bdbff"},"&dArr;",{x:0.25,c:"#919191"},"Shift",{c:"#cccccc"},"Mouse Left","Mouse Down","Mouse Right","Scroll Down",{g:true},"","",{g:false},"|","=","{","}",{c:"#919191"},"Enter"],
+[{x:2.25},"Mouse 3","Ctrl","Gui","Alt",{c:"#6bdbff",g:true},"&dArr;",{c:"#cccccc",g:false},"","",{c:"#ff5454"},"&uArr;",{c:"#919191",g:true},"","","",""]

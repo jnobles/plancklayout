@@ -2,4 +2,4 @@
 [{x:2.25},"Esc",{c:"#cccccc"},"A","S","D",{n:true},"F","G","H",{n:true},"J","K","L",{a:4},"\n\n\n:\n\n\n\n\n\n;",{c:"#919191"},"\n\n\n\"\n\n\n\n\n\n'"],
 [{y:-0.5,c:"#cccccc",a:7,w:1.75,w2:2},"Base"],
 [{y:-0.5,x:2.25,c:"#919191"},"Shift",{c:"#cccccc"},"Z","X","C","V","B","N","M",{a:4},"\n\n\n<\n\n\n\n\n\n,","\n\n\n>\n\n\n\n\n\n.","\n\n\n?\n\n\n\n\n\n/",{c:"#919191",a:7},"Enter"],
-[{x:2.25,c:"#66ab63"},"Fn",{c:"#919191"},"Ctrl","Gui","Alt",{c:"#6bdbff"},"&dArr;",{c:"#cccccc"},"","",{c:"#ff5454"},"&uArr;",{c:"#919191"},"&larr;","&darr;","&uarr;","&rarr;"]
+[{x:2.25,c:"#66ab63"},"MO (Fn)",{c:"#919191"},"Ctrl","Gui","Alt",{c:"#6bdbff"},"MO(&dArr;)",{c:"#cccccc"},"Space","Space",{c:"#ff5454"},"TT(&uArr;)",{c:"#919191"},"&larr;","&darr;","&uarr;","&rarr;"]
